@@ -24,8 +24,3 @@ void motor_init(void)
 }
 
 
-void sentido(int x) 
-{
-
-
-}
